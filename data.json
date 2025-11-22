@@ -1,0 +1,126 @@
+{
+  "users": {
+    "anunayit@gmail.com": {
+      "id": "53e7ff00-6121-49d6-b5ec-891b4c986972",
+      "password": "08612234bfbdc25a5d068ebdd21493b8ba1492ee81e7c2d2f672f1ea1026f820:605c0422c44546f28f83f733be038bd3"
+    },
+    "ekar31011": {
+      "id": "f3ad720a-5625-4be6-8048-d3b140232e08",
+      "password": "d760a9f5f270f1aaf355c371b065c16072bb8ae1eef66c6b89605979ec0e374e:9dae49f907614833bdfa27c10114e5fa"
+    }
+  },
+  "categories": {
+    "af12396a-06a0-41fa-9859-b3977d845368": {
+      "id": "af12396a-06a0-41fa-9859-b3977d845368",
+      "title": "Programming",
+      "desc": "Learn basics and advanced coding."
+    },
+    "ebbc6765-30be-44ab-bf2c-a017de1e60bc": {
+      "id": "ebbc6765-30be-44ab-bf2c-a017de1e60bc",
+      "title": "Data Science",
+      "desc": "ML, AI, Data Analysis."
+    },
+    "364e954c-3447-4284-892b-b5479d82b5a1": {
+      "id": "364e954c-3447-4284-892b-b5479d82b5a1",
+      "title": "Cybersecurity",
+      "desc": "Ethical Hacking & Security."
+    },
+    "5a4d22f4-5f56-45d4-88ab-d2d6dddffd1c": {
+      "id": "5a4d22f4-5f56-45d4-88ab-d2d6dddffd1c",
+      "title": "Web Development",
+      "desc": "HTML, CSS, JS, Backend."
+    },
+    "d24a372a-0717-4aa7-a2e6-7d91baa21bb9": {
+      "id": "d24a372a-0717-4aa7-a2e6-7d91baa21bb9",
+      "title": "Cloud / DevOps",
+      "desc": "Cloud, Docker, Kubernetes."
+    }
+  },
+  "courses": {
+    "88ffff01-c2af-461b-87b5-dcec248924ff": {
+      "id": "88ffff01-c2af-461b-87b5-dcec248924ff",
+      "title": "Python Basics",
+      "desc": "Start Python from zero.",
+      "category_id": "af12396a-06a0-41fa-9859-b3977d845368",
+      "videos": [
+        [
+          "Python Full Course",
+          "https://www.youtube.com/watch?v=gfDE2a7MKjA"
+        ],
+        [
+          "Variables & Data Types",
+          "https://www.youtube.com/watch?v=b093aqAZiPU"
+        ],
+        [
+          "Loops in Python",
+          "https://www.youtube.com/watch?v=6iF8Xb7Z3wQ"
+        ]
+      ]
+    },
+    "002a3d4c-071d-423a-9df3-24c23ee6c291": {
+      "id": "002a3d4c-071d-423a-9df3-24c23ee6c291",
+      "title": "Algorithms 101",
+      "desc": "Learn basic algorithms.",
+      "category_id": "af12396a-06a0-41fa-9859-b3977d845368",
+      "videos": [
+        [
+          "What Are Algorithms?",
+          "https://www.youtube.com/watch?v=8hly31xKli0"
+        ],
+        [
+          "Sorting Algorithms",
+          "https://www.youtube.com/watch?v=kgBjXUE_Nwc"
+        ]
+      ]
+    },
+    "952c502e-42c5-42c2-9e77-3fd506252eb2": {
+      "id": "952c502e-42c5-42c2-9e77-3fd506252eb2",
+      "title": "Machine Learning Basics",
+      "desc": "Intro to ML.",
+      "category_id": "ebbc6765-30be-44ab-bf2c-a017de1e60bc",
+      "videos": [
+        [
+          "ML Course",
+          "https://www.youtube.com/watch?v=Gv9_4yMHFhI"
+        ],
+        [
+          "Regression Basics",
+          "https://www.youtube.com/watch?v=kHwlB_j7Hkc"
+        ]
+      ]
+    },
+    "f0fd495c-f051-4f0b-a0de-512d6b19ce52": {
+      "id": "f0fd495c-f051-4f0b-a0de-512d6b19ce52",
+      "title": "Ethical Hacking Intro",
+      "desc": "Learn cybersecurity fundamentals.",
+      "category_id": "364e954c-3447-4284-892b-b5479d82b5a1",
+      "videos": [
+        [
+          "Hacking Basics",
+          "https://www.youtube.com/watch?v=3Kq1MIfTWCE"
+        ],
+        [
+          "Linux for Hackers",
+          "https://www.youtube.com/watch?v=a4Z3IazpU8A"
+        ]
+      ]
+    },
+    "0e7ecbaf-b226-429d-bd76-5e7d53efb9d1": {
+      "id": "0e7ecbaf-b226-429d-bd76-5e7d53efb9d1",
+      "title": "HTML & CSS",
+      "desc": "Web design and styling.",
+      "category_id": "5a4d22f4-5f56-45d4-88ab-d2d6dddffd1c",
+      "videos": [
+        [
+          "HTML Full Course",
+          "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+        ],
+        [
+          "CSS Course",
+          "https://www.youtube.com/watch?v=1Rs2ND1ryYc"
+        ]
+      ]
+    }
+  },
+  "progress": {}
+}
